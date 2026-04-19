@@ -71,3 +71,16 @@ Best Model:
 * KNN            --     0.668966
 * Logistic Reg    --    0.667241
 * Decision Tree   --    0.635345
+
+
+## 📌 Project Summary: Credit Card Default Prediction
+
+This project focuses on predicting whether a credit card customer is likely to default on their payment in the next billing cycle. Credit card default is a major issue for financial institutions, as it directly impacts revenue, risk management, and customer trust.
+
+The objective of this project is to build a machine learning model that can accurately classify customers into two categories: defaulters (1) and non-defaulters (0) based on their historical financial and behavioral data. The dataset includes features such as credit limit, payment history, bill statements, previous payments, and demographic details.
+
+Several machine learning algorithms such as Logistic Regression, Decision Tree, Random Forest, Naive Bayes, and Support Vector Machine are implemented and compared to identify the best-performing model. Data preprocessing techniques like handling missing values, feature scaling, and outlier removal are applied to improve model performance. Additionally, techniques for handling class imbalance (such as resampling and class weighting) are used to ensure fair and reliable predictions.
+
+The performance of the models is evaluated using metrics like accuracy, precision, recall, and F1-score, with special emphasis on recall to correctly identify defaulters. The final model helps financial institutions in early detection of risky customers, enabling them to take preventive actions such as adjusting credit limits or issuing warnings.
+
+Overall, this project demonstrates how machine learning can be effectively used in the financial sector to reduce risk, improve decision-making, and enhance customer management.
