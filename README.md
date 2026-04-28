@@ -58,7 +58,11 @@ Features include:
 3. Final model provides reliable predictions for risk analysis
 
 ## UI
-<img width="1366" height="768" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/745ff028-8f58-4deb-aa63-d14fde80ab88" />
+<img width="1366" height="768" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/2ea4412f-ddbd-4f5b-8e45-ca64badc868f" />
+<img width="1366" height="768" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/d7a0a661-9ebb-4848-8491-9f1b7d6df4e8" />
+<img width="1366" height="768" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/8f1b30d1-bcba-4ccb-bf8a-086edd3e3534" />
+
+
 
 ## Code 
 Best Model:
